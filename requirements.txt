@@ -14,3 +14,4 @@ scikit-learn==1.0.2
 seaborn==0.12.1
 shap==0.41.0
 sklearn==0.0
+pickleshare==0.7.5

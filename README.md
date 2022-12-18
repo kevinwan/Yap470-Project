@@ -6,3 +6,6 @@ And using that ML we want to reasons of these via explaining AI.
 
 The project being worked on is the subject of a competition, the link of the competition is below:
 https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/
+
+Deployment:
+https://osmanilge-yap470-project-damage-prediction-app-w7frhb.streamlit.app/
